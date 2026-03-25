@@ -1,0 +1,29 @@
+Rewrite the following beauty studio website copy in the selected tone.
+
+Tone Options:
+- Elegant & Premium
+- Friendly & Warm
+- Modern & Trendy
+- Traditional & Trustworthy
+- Professional & Clinical
+
+Instructions:
+- Do not change structure.
+- Keep headings, sections, and CTA placements the same.
+- Adjust vocabulary, emotional intensity, and phrasing.
+- Keep it natural and human.
+- Avoid exaggeration.
+
+Output Format:
+
+TONE SELECTED:
+[Selected Tone Name]
+
+
+REWRITTEN COPY:
+
+[Full rewritten website copy with original structure preserved]
+
+
+TONE ADJUSTMENT NOTES:
+- Briefly explain what changed in vocabulary and emotional style.
